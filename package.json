@@ -1,9 +1,9 @@
 {
   "name": "tour-of-heroes",
   "description": "An Aurelia client application.",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "repository": {
-    "type": "???",
+    "type": "GIT",
     "url": "???"
   },
   "license": "MIT",

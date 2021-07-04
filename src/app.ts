@@ -1,3 +1,11 @@
+import { Hero } from "hero";
+
 export class App {
-  public message = 'Hello World!';
+  
+  public title = 'Tour of Heroes';
+
+  public hero: Hero =  {
+    id: 1,
+    name: 'Windstorm'
+  };
 }
